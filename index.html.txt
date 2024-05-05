@@ -1,0 +1,49 @@
+<div class="IndustrialProducts">
+           
+             
+             <div class="IndustrialProducts" > 
+                 <a href=""> <h5>Industrial Products</h5> </a>
+                      
+        
+                 <h6> Casing,Tubing & Fitting </h6> 
+                 
+
+    
+                 <li> Carbon Steel & Alloy Seamless Pipes </li>
+    <li>Stainless Steel Seamless Tubes</li>
+    <li>SS Seamless & Welded Pipes</li>
+    <li>ERW & SAW Carbon Steel Pipes</li>
+    <li>Butt Weld Fittings</li>
+    <li>Forged Fittings</li>
+    <li>Flanges</li>
+    <li>Gaskets</li>
+
+        
+    <p3><img  align = "bottom" src = "Images/Productcasing.png"> </p3></div>
+
+             <div class="IndustrialProducts" > 
+                 <h6> Valves & Actuators </h6>
+    
+            
+   <li> Ball Valves</li>
+    <li>Butterfly Valves</li>
+   <li> Check Valves</li>
+   <li> Gate Valves</li>
+   <li> Globe Valves</li>
+   <li> Control Valves</li>
+    <li>Plug Valves</li>
+    <li>Safety Relief Valves</li>
+   <li> Actuators</li>
+   <li> Strainer</li>
+
+
+    <p3><img  align = "bottom" src = "Images/valves.png"> </p3></div>
+
+             
+<div class="IndustrialProducts">  <h5>Industrial Bellows</h5>
+<p1> Our massive industrial bellows are custom-designed to withstand extreme operating conditions, providing reliable protection against dust, debris, and environmental contaminants in industrial environments.<br>
+                 <img  align = "bottom" align = "center" src = "Images/IB.jpeg">
+    </p1>   
+    
+    </div> 
+                </section>
